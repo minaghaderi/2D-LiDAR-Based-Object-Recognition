@@ -71,6 +71,4 @@ pip install numpy matplotlib scikit-learn joblib
 - All scripts are designed to be run as Webots robot controllers.
 - The `.npy` files are NumPy arrays of 2D point clouds.
 - The classifier expects features similar to those used in the provided scripts.
-
-## License
-MIT License (or specify your own) 
+ 
